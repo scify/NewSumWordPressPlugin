@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NewSum Feed\n"
+"POT-Creation-Date: 2015-01-28 17:55+0200\n"
+"PO-Revision-Date: 2015-01-28 17:55+0200\n"
+"Last-Translator: \n"
+"Language-Team: SciFY NPC <ggianna@scify.org>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /home/ggianna/Downloads/WebTools/CMS/wordpress/wp-content/"
+"plugins/newsumfeed/\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ./languages\n"
+
+#: newsumfeed.php:22
+msgid "Options saved."
+msgstr "The options have been saved."
+
+#: newsumfeed.php:77
+msgid "NewSum Feed"
+msgstr "NewSum Feed"
+
+#: newsumfeed.php:77
+msgid "NewSum Feed Options"
+msgstr "NewSum Feed plugin options."
+
+#: optionForm.php:2
+msgid "NewSum Feed plugin options"
+msgstr "NewSum Feed plugin option."
+
+#: optionForm.php:5
+msgid "NewSum server URL: "
+msgstr "NewSum server URL:"
+
+#: optionForm.php:5
+msgid " ex: http://newsumserver.org/service/?wsdl"
+msgstr "For example: http://newsumserver.org/service/?wsdl"
+
+#: optionForm.php:6
+msgid "Minimum number of sources to get article: "
+msgstr "Minimum number of sources in a summary, in order to accept it: "
+
+#: optionForm.php:6
+msgid " ex: 3"
+msgstr "For example: 3"
+
+#: optionForm.php:7
+msgid "API key: "
+msgstr "API key (provided by SciFY or your provider):"
+
+#: optionForm.php:7
+msgid " ex: XXXX-XXXX-XXXX-XXXX-XXXX"
+msgstr "For example: XXXX-XXXX-XXXX-XXXX-XXXX"
+
+#: optionForm.php:10
+msgid "Update Options"
+msgstr "Update options"
+
+#, fuzzy
+#~ msgid "newsumfeed_options"
+#~ msgstr "NewSum Feed plugin option."
